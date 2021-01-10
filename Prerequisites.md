@@ -7,10 +7,6 @@ Register in https://www.kaggle.com/
 1. Visit https://www.kaggle.com/sarithdivakar/working-in-google-kaggle 
 2. Click on Copy and Edit
 3. Click on Run All.If you are able to see output, your dataset and notebook is ready for the session.
-
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 503911 entries, 0 to 503910
-Data columns (total 32 columns):
   
 Method 2: 
 Visit https://colab.research.google.com/ and follow below steps
