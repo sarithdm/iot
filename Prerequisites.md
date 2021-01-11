@@ -14,6 +14,6 @@ Visit https://colab.research.google.com/ and follow below steps
 1. Download HomeC.csv.zip from the link:https://drive.google.com/file/d/1LLhNU9PoJMEd8ocoOQGBoBaoWWFNi4l7/view?usp=sharing
 2. Upload to Google drive
 3. Download the notebook from the link: https://github.com/sarithdm/iot/blob/master/Working_in_Google_Colab.ipynb
-4. Upload the notebook
-5. Click on Runtime and Run All. If you are able to output, your dataset and notebook is ready for the session.
+4. Upload the notebook to Google Colab
+5. Click on Runtime and Run All. If you are able to see output, your dataset and notebook is ready for the session.
 
