@@ -5,7 +5,7 @@ Method 1:
 Register in https://www.kaggle.com/ 
 
 1. Visit https://www.kaggle.com/sarithdivakar/working-in-google-kaggle 
-2. Click on Copy and Edit
+2. Click on Edit
 3. Click on Run All.If you are able to see output, your dataset and notebook is ready for the session.
   
 Method 2: 
