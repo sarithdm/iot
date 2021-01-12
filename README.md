@@ -12,3 +12,5 @@
 
 # [Learn Python](https://github.com/sarithdm/learn-python3)
 
+# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
